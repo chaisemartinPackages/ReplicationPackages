@@ -1,7 +1,7 @@
 # ReplicationPackages
 Replication Packages from de Chaisemartin and D'Haultfoeuille
 
-## [Gentzkow et al. (2011) and Vella and Verbeek (1998)](https://github.com/chaisemartinPackages/ReplicationPackages/raw/main/AER_repl.zip)
+## [Gentzkow, Shapiro, and Sinkinson (2011) and Vella and Verbeek (1998)](https://github.com/chaisemartinPackages/ReplicationPackages/raw/main/AER_repl.zip)
 Replication package from de Chaisemartin and D'Haultfoeuille (2020)
 
 ## [Favara and Imbs (2015)](https://github.com/chaisemartinPackages/ReplicationPackages/raw/main/Favara_Imbs.zip)
