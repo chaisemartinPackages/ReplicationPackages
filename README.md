@@ -10,9 +10,6 @@ Replication package from de Chaisemartin and D'Haultfoeuille (2020)
 ## [Hotz and Xiao (2011)](https://github.com/chaisemartinPackages/ReplicationPackages/raw/main/Hotz_et_al_main_git.do)
 Replication package from de Chaisemartin and D'Haultfoeuille (2023a), Section 6.
 
-## [Pierce and Schott (2016)](https://github.com/chaisemartinPackages/ReplicationPackages/raw/main/pierce_schott.do)
-Replication package from de Chaisemartin and D'Haultfoeuille (2024b), Section 6.1.
-
 ## [Wolfers (2006)](https://github.com/chaisemartinPackages/ReplicationPackages/raw/main/wolfers_final.do)
 Replication package from de Chaisemartin and D'Haultfoeuille (2023b), Section 4.
 
